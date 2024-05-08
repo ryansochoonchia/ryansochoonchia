@@ -13,6 +13,8 @@ I'm a Data Scientist/Analyst
 
 ✉️   You can shoot me an email at sochoonchia.com and I'll try to respond ASAP
 
+-------------------------
+
 
 **🔧 Technologies & Tools**
 
