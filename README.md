@@ -15,4 +15,5 @@ I'm a Data Scientist/Analyst
 
 
 **🔧 Technologies & Tools**
+
 Excel, PowerBI, SQL, Basic Python
